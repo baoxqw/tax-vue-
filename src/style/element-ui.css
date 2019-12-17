@@ -1,0 +1,9 @@
+.el-dialog__header {
+  font-size: 10px;
+  font-weight: bold;
+  color: #55585E;
+}
+.el-dialog__body {
+  padding: 10px 20px;
+}
+/*# sourceMappingURL=element-ui.css.map */

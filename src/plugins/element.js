@@ -1,0 +1,61 @@
+import Vue from 'vue'
+import {
+  Button,
+  Menu,
+  Submenu,
+  Scrollbar,
+  MenuItem,
+  Popover,
+  CheckboxGroup,
+  Checkbox,
+  DropdownItem,
+  Dropdown,
+  Pagination,
+  DropdownMenu,
+  Icon,
+  Loading,
+  Table,
+  TableColumn,
+  Tag,
+  Tabs,
+  Dialog,
+  Input,
+  DatePicker,
+  Radio,
+  Option,
+  Select,
+  TabPane,
+  RadioButton,
+  RadioGroup,
+  MenuItemGroup } from 'element-ui'
+import 'element-ui/lib/theme-chalk/index.css'
+
+Vue.use(Button)
+Vue.use(Icon)
+Vue.use(CheckboxGroup)
+Vue.use(Checkbox)
+Vue.use(Dropdown)
+Vue.use(DropdownMenu)
+Vue.use(Loading)
+Vue.use(DropdownItem)
+Vue.use(Popover)
+Vue.use(Radio)
+Vue.use(DatePicker)
+Vue.use(Pagination)
+Vue.use(Input)
+Vue.use(Select)
+Vue.use(Option)
+Vue.use(Dialog)
+Vue.use(Table)
+Vue.use(TableColumn)
+Vue.use(Icon)
+Vue.use(Tag)
+Vue.use(Tabs)
+Vue.use(TabPane)
+Vue.use(Scrollbar)
+Vue.use(RadioButton)
+Vue.use(RadioGroup)
+Vue.use(Menu)
+Vue.use(Submenu)
+Vue.use(MenuItem)
+Vue.use(MenuItemGroup)
